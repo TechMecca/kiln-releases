@@ -22,6 +22,42 @@ project folders, checks and fixes its own code, and lets your friends join the s
 - **Nothing is lost.** Every message in a coding session is a checkpoint. Rewind the files, the conversation, or both.
 - **Your code stays on your PC.** With local models, your files and chats never leave your machine.
 
+<details>
+<summary><b>📸 Screenshots</b> (click to open)</summary>
+
+<br>
+
+All screenshots are from the real app, running free local models on one PC.
+
+**Build together: two people in one chat, each with their own AI.** Alex's screen: Sam asked a question, and
+*Sam's* model (deepseek-r1:8b, on Sam's PC) answered it. Alex's model wasn't used.
+
+<img src="screenshots/shared-host.png" alt="Alex's view of a shared session: Sam's message answered by Sam's model" width="100%">
+
+**The same session on Sam's screen.** Alex's model's reply is labelled, followed by Sam's own message and Sam's own model's answer.
+
+<img src="screenshots/shared-guest.png" alt="Sam's view of the same shared session" width="100%">
+
+**Invite friends.** One click copies a ready-to-send invite: what Kiln is, where to download it, and the key.
+
+<img src="screenshots/invite.png" alt="The Invite friends dialog" width="100%">
+
+**Code workspace.** The AI wrote two files into the session's own folder. Kiln checked that they compile, and the
+files open in the built-in editor.
+
+<img src="screenshots/code.png" alt="A coding session with the files the AI wrote, open in the editor" width="100%">
+
+**Chat with a local model.** Streaming answers with highlighted code, speed and context stats.
+
+<img src="screenshots/chat.png" alt="Chat with gemma4:12b" width="100%">
+
+**Discover: models that fit your PC.** Kiln checks your graphics card and memory and recommends models. One click
+downloads one and sets it up.
+
+<img src="screenshots/discover.png" alt="AI Modules, Discover: model recommendations for this PC" width="100%">
+
+</details>
+
 ---
 
 ## Features
